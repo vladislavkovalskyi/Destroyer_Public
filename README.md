@@ -1,5 +1,5 @@
 # Destroyer_Public
-## _Actual for 04/30/21_
+## _Actual for 05/04/21_
 - This means that you can use the program at this point in time. The developer tries to quickly update the program after each update of the CS:GO
 
 ## Cheat versions
