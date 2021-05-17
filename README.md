@@ -1,4 +1,5 @@
 # Destroyer_Public
+## [ALL IN] & [GH] DON'T WORK!!! (Wait for the next update)
 ## _Actual for 05/04/21_
 - This means that you can use the program at this point in time. The developer tries to quickly update the program after each update of the CS:GO
 
